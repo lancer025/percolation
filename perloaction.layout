@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include/Percolation.h" open="1" top="0" tabpos="6">
+		<Cursor position="696" topLine="0" />
+	</File>
+	<File name="include/PercolationStats.h" open="1" top="0" tabpos="5">
+		<Cursor position="154" topLine="0" />
+	</File>
+	<File name="include/WeightedQuickUnionUF.h" open="1" top="0" tabpos="8">
+		<Cursor position="483" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="377" topLine="0" />
+	</File>
+	<File name="src/Percolation.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="977" topLine="16" />
+	</File>
+	<File name="src/PercolationStats.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="1513" topLine="53" />
+	</File>
+	<File name="src/WeightedQuickUnionUF.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="4136" topLine="74" />
+	</File>
+</CodeBlocks_layout_file>

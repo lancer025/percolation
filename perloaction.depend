@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1454954285 source:/Users/poonam/Library/Application Support/codeblocks/perloaction 2/main.cpp
+	<iostream>
+	"PercolationStats.h"
+	"Percolation.h"
+
+1454997884 /Users/poonam/Library/Application Support/codeblocks/perloaction 2/include/PercolationStats.h
+	"Percolation.h"
+
+1455014610 /Users/poonam/Library/Application Support/codeblocks/perloaction 2/include/Percolation.h
+	"WeightedQuickUnionUF.h"
+
+1455014966 /Users/poonam/Library/Application Support/codeblocks/perloaction 2/include/WeightedQuickUnionUF.h
+
+1454998781 source:/Users/poonam/Library/Application Support/codeblocks/perloaction 2/src/PercolationStats.cpp
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	"PercolationStats.h"
+
+1454954285 source:/home/lancer/Desktop/perloaction 2/main.cpp
+	<iostream>
+	"PercolationStats.h"
+	"Percolation.h"
+
+1454997884 /home/lancer/Desktop/perloaction 2/include/PercolationStats.h
+	"Percolation.h"
+
+1455014610 /home/lancer/Desktop/perloaction 2/include/Percolation.h
+	"WeightedQuickUnionUF.h"
+
+1455014966 /home/lancer/Desktop/perloaction 2/include/WeightedQuickUnionUF.h
+
+1455015057 source:/home/lancer/Desktop/perloaction 2/src/Percolation.cpp
+	<iostream>
+	"Percolation.h"
+
+1454998781 source:/home/lancer/Desktop/perloaction 2/src/PercolationStats.cpp
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	"PercolationStats.h"
+
+1455015005 source:/home/lancer/Desktop/perloaction 2/src/WeightedQuickUnionUF.cpp
+	"WeightedQuickUnionUF.h"
+
